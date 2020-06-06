@@ -12,10 +12,9 @@ First Download jar from  [here](https://github.com/viralvaghela/Jwiki/raw/master
  System.out.println("Image : "+jwiki.getImageURL());    //get image URL
 ```
 
-## Thank You!
+## Thank You
 Please ⭐️ this repo and share it with others
 
-
-## Contributing 💡
+## Contributing 
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
 If you find any issue just put it in the repository issue section, thank you.
