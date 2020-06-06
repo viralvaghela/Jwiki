@@ -1,4 +1,7 @@
 # Jwiki
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a74586655e224fd2ad8acd91458b2828)](https://app.codacy.com/manual/viralvaghela/Jwiki?utm_source=github.com&utm_medium=referral&utm_content=viralvaghela/Jwiki&utm_campaign=Badge_Grade_Dashboard)
+
 Java tool to get wikipedia data
 
 ## How to Use 
