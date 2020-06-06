@@ -1,11 +1,11 @@
 # Jwiki
 Java tool to get wikipedia data
 
-## How to Use ?
+## How to Use 
 First Download jar from  [here](https://github.com/viralvaghela/Jwiki/raw/master/out/artifacts/JWiki_jar/JWiki.jar) and import inside your project.
 
 ## Example
-```
+```java
  Jwiki jwiki = new Jwiki("elon musk"); 
  System.out.println("Title :"+jwiki.getDisplayTitle()); //get title
  System.out.println("Text : "+jwiki.getExtractText());  //get summary text
